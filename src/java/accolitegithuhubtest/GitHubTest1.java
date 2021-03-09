@@ -1,4 +1,4 @@
-package test;
+package accolitegithuhubtest;
 
 public class GitHubTest1 
 {
