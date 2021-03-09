@@ -1,4 +1,4 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Σ¨ρ£
-k
-java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(µ¤Κ όÿÿÿÿ
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(γλΰ®ϊÿÿÿÿ
+i
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(µ¤Κ όÿÿÿÿ

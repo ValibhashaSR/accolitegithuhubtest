@@ -1,4 +1,4 @@
-package accolitegithuhubtest.niket;
+package java.accolitegithuhubtest.niket;
 import java.util.DoubleSummaryStatistics;
 import java.util.StringTokenizer;
 

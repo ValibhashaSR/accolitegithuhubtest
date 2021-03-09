@@ -1,0 +1,20 @@
+
+Y
+java:S3518"CMake sure this expression can't be zero before doing this division.(Ùþïú
+O
+java:S1143"4Remove this throw statement from this finally block.( Ô“Ùúÿÿÿÿ
+X
+java:S1163"=Refactor this code to not throw exceptions in finally blocks.( Ô“Ùúÿÿÿÿ
+^
+java:S1128"CRemove this unused import 'javax.swing.plaf.synth.SynthTextAreaUI'.(üë®Ïüÿÿÿÿ
+~
+java:S1130"hRemove the declaration of thrown exception 'java.lang.ArithmeticException' which is a runtime exception.(ÜýÚ¡
+_
+java:S2147"DCombine this catch with the one at line 12, which has the same body.(ñ“Š±üÿÿÿÿ
+Q	java:S125	"<This block of commented-out lines of code should be removed.(ŽˆÆË
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„öŒþúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ‹ø™
+<
+java:S1481"&Remove this unused "a" local variable.(Ùþïú

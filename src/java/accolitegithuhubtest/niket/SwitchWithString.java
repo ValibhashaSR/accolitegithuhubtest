@@ -1,4 +1,4 @@
-package accolitegithuhubtest.niket;
+package java.accolitegithuhubtest.niket;
 public class SwitchWithString {
     public static  void main(String[] args){
         String s="Monday";

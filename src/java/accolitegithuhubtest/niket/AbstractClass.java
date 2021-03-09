@@ -1,4 +1,4 @@
-package accolitegithuhubtest.niket;
+package java.accolitegithuhubtest.niket;
 abstract class exampleClass{
     abstract void abstractMethod();
 }

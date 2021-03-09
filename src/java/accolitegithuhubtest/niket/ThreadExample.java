@@ -1,5 +1,4 @@
-package accolitegithuhubtest.niket;
-import java.util.concurrent.TransferQueue;
+package java.accolitegithuhubtest.niket;
 
 //class AvaialableThread implements Runnable{
 //

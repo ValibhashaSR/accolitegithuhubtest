@@ -1,6 +1,4 @@
-package accolitegithuhubtest.niket;
-import javax.swing.plaf.synth.SynthTextAreaUI;
-
+package java.accolitegithuhubtest.niket;
 class parentClass{
     private int var1;
     public int var2=10;
