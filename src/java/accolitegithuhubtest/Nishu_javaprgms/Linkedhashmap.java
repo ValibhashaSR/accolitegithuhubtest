@@ -1,7 +1,6 @@
 import java.util.*;
 public class Linkedhashmap{ 
 	  public static void main(String[] args) {
-	     // Create a HashMap
 	     LinkedHashMap<Integer, String> hmap = new LinkedHashMap<Integer, String>();
 	     hmap.put(1, "One");
 	     hmap.put(2, "Two");

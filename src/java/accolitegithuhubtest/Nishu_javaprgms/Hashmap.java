@@ -1,7 +1,6 @@
 import java.util.*;
 public class Hashmap{ 
   public static void main(String[] args) {
-     // Create a HashMap
      HashMap<Integer, String> hmap = new HashMap<Integer, String>();
      hmap.put(1, "One");
      hmap.put(2, "Two");
