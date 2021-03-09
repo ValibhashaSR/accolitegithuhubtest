@@ -1,3 +1,4 @@
+package accolitegithuhubtest.nishu;
 interface A{  
 void a(); 
 void b();  

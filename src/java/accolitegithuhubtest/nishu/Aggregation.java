@@ -1,3 +1,4 @@
+package accolitegithuhubtest.nishu;
 class Emp {  
 int id;  
 String name;  
