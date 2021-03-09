@@ -1,3 +1,4 @@
+package accolitegithuhubtest.nishu;
 class Animal1{  
 void eat(){System.out.println("eating");}  
 }  

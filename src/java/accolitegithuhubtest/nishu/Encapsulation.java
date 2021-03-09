@@ -1,4 +1,5 @@
 //Encapsulation
+package accolitegithuhubtest.nishu;
 class Test{
 	private String name; 
 	
