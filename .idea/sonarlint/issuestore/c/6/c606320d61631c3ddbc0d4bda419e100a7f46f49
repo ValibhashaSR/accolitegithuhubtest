@@ -1,13 +1,0 @@
-
-Q
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-r
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂíïÄıÿÿÿÿ
-L	java:S106"9Replace this use of System.out or System.err by a logger.(¡Öìâ
-0
-java:S1116"Remove this empty statement.(ö©ıß
-L	java:S106"9Replace this use of System.out or System.err by a logger.(¡Öìâ
-m
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç Ş—
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(É¾²”ûÿÿÿÿ
-Q	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¢Ûßüÿÿÿÿ
