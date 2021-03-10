@@ -1,4 +1,4 @@
-package java.accolitegithuhubtest.niket.myPackage;
+package accolitegithuhubtest.niket.myPackage;
 public class PackageExample {
 
     public String name="Niket";

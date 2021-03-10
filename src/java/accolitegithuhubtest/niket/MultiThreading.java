@@ -1,4 +1,4 @@
-package java.accolitegithuhubtest.niket;
+package accolitegithuhubtest.niket;
 class ThreadExample1 {
     synchronized public void funcRun(String count){
         for(int i=0;i<20;i++)

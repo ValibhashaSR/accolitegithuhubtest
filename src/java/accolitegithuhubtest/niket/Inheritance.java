@@ -1,4 +1,4 @@
-package java.accolitegithuhubtest.niket;
+package accolitegithuhubtest.niket;
 class parentClass{
     private int var1;
     public int var2=10;

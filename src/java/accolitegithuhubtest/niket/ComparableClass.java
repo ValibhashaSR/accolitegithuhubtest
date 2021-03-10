@@ -1,4 +1,4 @@
-package java.accolitegithuhubtest.niket;
+package accolitegithuhubtest.niket;
 import java.util.*;
 import java.util.concurrent.ConcurrentMap;
 

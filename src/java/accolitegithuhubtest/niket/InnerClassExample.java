@@ -1,4 +1,4 @@
-package java.accolitegithuhubtest.niket;
+package accolitegithuhubtest.niket;
 
 public class InnerClassExample {
     static int var1=0;

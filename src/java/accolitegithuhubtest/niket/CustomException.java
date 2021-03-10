@@ -1,4 +1,4 @@
-package java.accolitegithuhubtest.niket;
+package accolitegithuhubtest.niket;
 class CustomExceptionExample extends Exception{
     CustomExceptionExample(String s){
         super(s);
