@@ -1,14 +1,14 @@
 package accolitegithuhubtest.nishu;
-class Animal{  
+class XYZ{  
 void eat(){System.out.println("eating");}  
 }  
-class Dog extends Animal{  
+class D extends XYZ{  
 void bark(){System.out.println("barking");}  
 }  
 public class SingleInheritance {
 	public static void main(String args[])
 	{  
-		Dog d=new Dog();  
+		D d=new D();  
 		d.bark();  
 		d.eat();  
 	}

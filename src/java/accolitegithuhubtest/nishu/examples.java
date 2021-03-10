@@ -1,7 +1,7 @@
 package accolitegithuhubtest.nishu;
 import java.util.*;
 
-class A{
+class ABC{
 	public void print(List<String>list)
 	{
 		list.forEach(item->
@@ -28,7 +28,7 @@ public class examples {
 		for(int i=0;i<arr.length;i++)
 			System.out.println("Value at "+i + " is "+arr[i]);
 		//Type Inference
-		A a=new A();
+		ABC a=new ABC();
 		List<String> animals = new ArrayList<String>();
 		animals.add("Dog");
 		animals.add("Cat");
